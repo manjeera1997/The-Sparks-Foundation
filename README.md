@@ -18,6 +18,7 @@ Solution - Predicition using Supervised ML
 
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
+
 Solution - Prediction using Unsupervised ML
 
 
@@ -27,6 +28,7 @@ Solution - Prediction using Unsupervised ML
 
 ● The purpose is if we feed any new data to this classifier, it would be able to
 predict the right class accordingly.
+
 
 Solution - Prediction using Decision Tree Algorithm
 
@@ -42,5 +44,6 @@ contributing win or loss of a team.
 ● Suggest teams or players a company should endorse for its products.
 
 Dataset: https://bit.ly/34SRn3b
+
 
 Solution - Exploratory Data Analysis
